@@ -1631,5 +1631,7 @@ http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,viju History
 https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ecuavisa
+
+
+#EXTINF:-1 Afro beat-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dA5pKa92Smk1iBp51VNHGRTD1a8-fJ_t7A&s",13Max Television
 https://stream.ecable.tv/afrobeats/index.m3u8
