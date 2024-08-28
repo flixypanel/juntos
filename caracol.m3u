@@ -1,9 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="XtremaSuspenso.ar" tvg-logo="https://i.imgur.com/7Vwno5k.png" group-title="Movies",Xtrema Suspenso
-https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremaTerror.ar" tvg-logo="https://i.imgur.com/FcaTUym.png" group-title="Movies",Xtrema Terror
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
-#EXTINF:-1 tvg-id="ZondaTV.ar" tvg-logo="https://i2.paste.pics/0892ef7fbb6b42523737174dba3bc445.png" group-title="",Zonda TV
-https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+#EXTINF:-1 tvg-logo="URL_del_logo",CANAL CARACOL
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
