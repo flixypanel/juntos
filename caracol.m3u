@@ -1,7 +1,5 @@
 POLITICA
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/854/340/png-transparent-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-logo-thumbnail.png",CANAL INSTITUCIONAL
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
@@ -70,7 +68,8 @@ NOVELAS
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1467214519860703238/YGEmnsed_400x400.jpg",D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13 MAX
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
@@ -129,6 +128,15 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 #EXTINF:-1 tvg-logo="URL_del_logo",13MAX TELEVISION
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE STAR
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png",PUCON TV
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGvfqug.png",CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
+
 
 
 
@@ -142,13 +150,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/s/8/xcosmo1.jpg.pagespeed.ic.wpczYs4I_D.jpg",COSMO
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",CINE ESTELAR
-https://github.com/HelmerLuzo/PlutoTV_HL/raw/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE STAR
-https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8X
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQimt9G.png",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -158,7 +160,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png",NEXT HD 
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
-
 
 
 
