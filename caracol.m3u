@@ -89,9 +89,8 @@ VARIADADES
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",CANAL CARACOL
-https://iptv-org.github.io/iptv/countries/co.m3u
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL TV [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/1024px-Rcn-xtra_2.png", RCN EXTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
@@ -118,6 +117,13 @@ https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/senal-colombia-2005-2009-logo-B127E74CAB-seeklogo.com.png",SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png",TVE INTERNACIONAL AMERICA
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+
+
+
+
 
 
 PELICULAS
@@ -171,7 +177,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
 
 
-TIPO M`TV
+TIPO MTV
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png",CUATRO
 https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
@@ -205,3 +211,11 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5hyKU8.png",VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
+
+
+
+
+ANIME
+
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",ANIMESTATION 
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
