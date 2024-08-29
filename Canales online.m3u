@@ -1635,7 +1635,7 @@ https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="URL_del_logo",CANAL CARACOL
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://www.pureenergygo.com/wp-content/uploads/2024/05/mfeg-album-534-primary.jpg",Afrobeat
 https://stream.ecable.tv/afrobeats/index.m3u8
