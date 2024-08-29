@@ -32,9 +32,6 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gospelfg.fuegosantomi.com/wp-content/uploads/2022/08/55-TV-1-1024x1024.png",55TV TELEMORISCO
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/483/824/png-transparent-ewtn-internet-radio-broadcasting-television-lenten-purple-television-electronics-thumbnail.png",EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u88
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png",ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
