@@ -1,5 +1,3 @@
-#EXTM3U
-
 POLITICA
 
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
@@ -32,6 +30,7 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://gospelfg.fuegosantomi.com/wp-content/uploads/2022/08/55-TV-1-1024x1024.png",55TV TELEMORISCO
 http://canal.mediaserver.com.co/live/telemorisco.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png",ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
@@ -55,10 +54,6 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/anime_station.png",ANIME STATION
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Canal_9_%28Logo_2003_-_2%29.png",CANAL 9 COSESPU
-https://video2.lhdserver.es/canal9cosespu/live.m3u8
 
 
 
@@ -145,7 +140,7 @@ http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478063501/258356_177666372291417_177666118958109_438218_5333183_o_400x400.jpg",SON LATINO
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lorini.net/assets/images/portfolio-17.jpg",Cantina T.V
+#EXTINF:-1 tvg-logo="https://www.lorini.net/assets/images/portfolio-17.jpg",CORTINA TV
 https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/116/57/png-transparent-google-logo-media-social-glossy-square-social-media-icons-icon.png",MI GENTE TV
