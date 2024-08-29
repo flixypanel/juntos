@@ -1,4 +1,193 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="URL_del_logo",CANAL CARACOL
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+POLITICA
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/854/340/png-transparent-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-logo-thumbnail.png",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text-thumbnail.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+
+
+
+CRISTIANOS
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://frecuenciaf.com/img/FrecuenciaFTV.png",FRECUENCIA F TV
+https://tv.frecuenciaf.com/live/envivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTszCPWELk2PhbP9MX0Swo3a-yNaibOGO8-xww7lCrUl8kp3qPcabIpdxjetYw71GUVOyTULZHSyKyiftSghABYP3M_Ii5JId4IiRa-k5oVKxlRESHxdReSU29LzKFAAKHXWB5-v7riyk/s1600/Radio-Nuevo-Tiempo-Logo1.jpg",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gospelfg.fuegosantomi.com/wp-content/uploads/2022/08/55-TV-1-1024x1024.png",55TV TELEMORISCO
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/483/824/png-transparent-ewtn-internet-radio-broadcasting-television-lenten-purple-television-electronics-thumbnail.png",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u88
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png",ENLACE
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+
+
+
+
+INFANTIL
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/anime_station.png",ANIME STATION
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Canal_9_%28Logo_2003_-_2%29.png",CANAL 9 COSESPU
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+
+
+
+
+NOVELAS
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1467214519860703238/YGEmnsed_400x400.jpg",D DRAMA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Canal_9_%28Logo_2003_-_2%29.png/600px-Canal_9_%28Logo_2003_-_2%29.png",CANAL 9
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
+
+
+
+
+VARIADADES
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/1024px-Rcn-xtra_2.png", RCN EXTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ctvbarranquilla.com/wp-content/uploads/2019/07/cropped-cropped-Logo-ctv.png",CTV BARRANQUILLA
+https://59a564764e2b6.streamlock.net//ctvbarranquilla//ctv//playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",STAR TV HD
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xjTU14t.jpeg",ANC TELEVISION
+https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/senal-colombia-2005-2009-logo-B127E74CAB-seeklogo.com.png",SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
+PELICULAS
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oasis-tv-co.png",OASIS TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+
+MUSICA
+
+#EXTINF:-1 tvg-logo="https://www.pureenergygo.com/wp-content/uploads/2024/05/mfeg-album-534-primary.jpg",Afrobeat
+https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/14/98/2323/4/c300.png",88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d938ca069317ed30eb9b0006c456b3c92f0c1669d7a672663d5833d6f946ba6c.png",TROPRICAL MUSIC
+http://68.235.37.11:1935/vallenato/vallenato/.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478063501/258356_177666372291417_177666118958109_438218_5333183_o_400x400.jpg",SON LATINO
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lorini.net/assets/images/portfolio-17.jpg",Cantina T.V
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/116/57/png-transparent-google-logo-media-social-glossy-square-social-media-icons-icon.png",MI GENTE TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+
+
+HISTORIAS DOCUMENTALES
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/512px-Logo_La_8.svg.png",CANAL 8 TV
+https://movil.ejeserver.com/live/canal8tv.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+
+
+NOTICIAS
+
+#EXTINF:-1 tvg-logo="URL_del_logo",RED MAS
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png",24 HORAS
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
