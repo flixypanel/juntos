@@ -90,7 +90,7 @@ VARIADADES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",CANAL CARACOL
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+https://iptv-org.github.io/iptv/countries/co.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/1024px-Rcn-xtra_2.png", RCN EXTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -137,20 +137,9 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/mani
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",CINE ESTELAR
 https://github.com/HelmerLuzo/PlutoTV_HL/raw/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsCZHMh.png",TVE STAR
+https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
@@ -177,8 +166,6 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/116/57/png-transparent-google-logo-media-social-glossy-square-social-media-icons-icon.png",MI GENTE TV
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
@@ -202,8 +189,6 @@ HISTORIAS Y DOCUMENTALES
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/512px-Logo_La_8.svg.png",CANAL 8 TV
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
@@ -220,5 +205,3 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5hyKU8.png",VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
