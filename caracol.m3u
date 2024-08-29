@@ -98,6 +98,12 @@ https://59a564764e2b6.streamlock.net//ctvbarranquilla//ctv//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",STAR TV HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",CANAL 1
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nstv.com.co/wp-content/uploads/2024/05/LOGO-WEB-NSTV-NUESTRA-SENAL-TV.png",NSTV
+https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjTU14t.jpeg",ANC TELEVISION
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
@@ -111,14 +117,8 @@ PELICULAS
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oasis-tv-co.png",OASIS TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFEFVwV.jpeg",AGENDA AL DIA TV
+https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -127,10 +127,10 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 MUSICA
 
-#EXTINF:-1 tvg-logo="https://www.pureenergygo.com/wp-content/uploads/2024/05/mfeg-album-534-primary.jpg",Afrobeat
+#EXTINF:-1 tvg-logo="https://www.pureenergygo.com/wp-content/uploads/2024/05/mfeg-album-534-primary.jpg",AFROBEAT
 https://stream.ecable.tv/afrobeats/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/14/98/2323/4/c300.png",88 Stereo
+#EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/14/98/2323/4/c300.png",88 STEREO
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d938ca069317ed30eb9b0006c456b3c92f0c1669d7a672663d5833d6f946ba6c.png",TROPRICAL MUSIC
@@ -160,8 +160,6 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
@@ -176,10 +174,3 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
