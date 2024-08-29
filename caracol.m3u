@@ -71,6 +71,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13 MAX
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png",13 TELESERIE
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
 
 
 
@@ -93,7 +96,7 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 VARIADADES
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+#EXTINF:-1 tvg-logo="URL_del_logo",13MAX
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL TV
@@ -106,6 +109,15 @@ https://59a564764e2b6.streamlock.net//ctvbarranquilla//ctv//playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",STAR TV HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg",RCN MAS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/800px-Rcn-xtra_2.png",RCN XTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGvfqug.png",CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png",CANAL 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
@@ -134,9 +146,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nO4cV3E.png",PUCON TV
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QGvfqug.png",CARACOLA TV
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/5efe501c21d05a0722152f6d.png",CANAL 8
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
 
 
@@ -161,6 +172,10 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c2rF3SS.png",NEXT HD 
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj",101TV MALAGA
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+
+
 
 
 
@@ -168,6 +183,9 @@ MUSICA
 
 #EXTINF:-1 tvg-logo="https://www.pureenergygo.com/wp-content/uploads/2024/05/mfeg-album-534-primary.jpg",AFROBEAT
 https://stream.ecable.tv/afrobeats/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjaZ3kO.png",AFROCULTURE TV
+https://helga.iptv2022.com/sh/Afroculture/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://co.radio.net/images/broadcasts/14/98/2323/4/c300.png",88 STEREO
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
@@ -235,6 +253,9 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5hyKU8.png",VPI TV
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Og17U9N.png",ADN 40 
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
 
 
 
@@ -242,4 +263,4 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 ANIME
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",ANIMESTATION 
-https://gist.githubusercontent.com/calloatti/2d1ac4a9cece2ab17f97fefabbac9f07/raw/eaa866fb97dc2b0de2649adfdae9df01b8a4571f/plutotv.md
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
