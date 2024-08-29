@@ -43,11 +43,11 @@ INFANTIL
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",DISNEY CHANNEL 
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u88
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXs8f6a.png",NICKELODEON 
+http://185.189.225.150:85/nickelodeon/index.m3u8" width="640" height="360
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -55,6 +55,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/anime_station.png",ANIME STATION
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png",MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 
 
@@ -105,6 +107,9 @@ https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
 #EXTINF:-1 tvg-logo="https://www.nstv.com.co/wp-content/uploads/2024/05/LOGO-WEB-NSTV-NUESTRA-SENAL-TV.png",NSTV
 https://cp.panelchs.com:1936/8162/8162/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zm4934Z.png",TV PEÑOL
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xjTU14t.jpeg",ANC TELEVISION
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 
@@ -123,6 +128,27 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/s/8/xcosmo1.jpg.pagespeed.ic.wpczYs4I_D.jpg",COSMO
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",CINE ESTELAR
+https://github.com/HelmerLuzo/PlutoTV_HL/raw/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
 
 
 MUSICA
@@ -136,6 +162,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d938ca069317ed30eb9b0006c456b3c92f0c1669d7a672663d5833d6f946ba6c.png",TROPRICAL MUSIC
 http://68.235.37.11:1935/vallenato/vallenato/.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.huilatv.com/wp-content/uploads/2020/01/LOGO-HUILA-TV-ICONO.png",HUILA TV
+https://plataformavideo.com:19360/8020/8020.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1478063501/258356_177666372291417_177666118958109_438218_5333183_o_400x400.jpg",SON LATINO
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -152,7 +180,21 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 
 
-HISTORIAS DOCUMENTALES
+
+TIPO M`TV
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cuatro-tv-logo-801A71C174-seeklogo.com.png",CUATRO
+https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_HD.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+
+
+
+
+
+HISTORIAS Y DOCUMENTALES
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/512px-Logo_La_8.svg.png",CANAL 8 TV
 https://movil.ejeserver.com/live/canal8tv.m3u8
@@ -171,6 +213,9 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png",24 HORAS
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5hyKU8.png",VPI TV
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="URL_del_logo",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
