@@ -163,6 +163,9 @@ OTROS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png",TV INTERNACIONAL
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P50VjRX.png",TeleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
 
 
 PELICULAS
@@ -176,7 +179,7 @@ https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/s/8/xcosmo1.jpg.pagespeed.ic.wpczYs4I_D.jpg",COSMO
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gQimt9G.png",CINE SUREÑO
+#EXTINF:-1 tvg-logo="https://img3.static-ottera.com/prod/oly/video/thumbnails/widescreen/960x540/suren_ao.jpg",FREETV SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png",CINE SONY
@@ -292,3 +295,6 @@ ANIME
 
 #EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",ANIMESTATION 
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png",Pandamax Channel (1080p)
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
