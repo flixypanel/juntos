@@ -75,9 +75,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
 
-#EXTINF:-1 tvg-id="Amantesdelromance.us" tvg-logo="https://i.imgur.com/ipuLCWX.png" group-title="Entertainment",Amantes del romance
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c268072-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=68743968-8695-4725-b7a7-5a4926c380d1
-
 
 
 
@@ -100,7 +97,7 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 VARIADADES
 
-#EXTINF:-1 tvg-logo="URL_del_logo",13MAX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png",CARACOL TV
@@ -157,6 +154,13 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg",AGUACATE TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWKjVkb.png",ATESUR
+https://video2.getstreamhosting.com:19360/8038/8038.m3u8
+
+#EXTINF:-1, tvg-logo="https://i.imgur.com/PWKjVkb.png",Cosmovision
+https://videohls2.cosmovision.tv/hls/sd.m3u8
+
+
 
 
 
@@ -183,6 +187,13 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj",101TV MALAGA
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CsW4Op8.png",ANDES TELEVISION
+https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png",ATACAMA TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+
 
 TIPO MTV
 
@@ -194,6 +205,9 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png",GARAGE TV 
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1413_Diti_TV.png",DITI TV
+https://m3u.cl/lista/AR.m3u
 
 
 
@@ -233,7 +247,8 @@ DEPORTES
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",CMT
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 
 
 
