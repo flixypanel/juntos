@@ -157,10 +157,11 @@ https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWKjVkb.png",ATESUR
 https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 
-#EXTINF:-1, tvg-logo="https://i.imgur.com/PWKjVkb.png",Cosmovision
-https://videohls2.cosmovision.tv/hls/sd.m3u8
 
+OTROS
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png",TV INTERNACIONAL
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 
 
@@ -173,7 +174,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/m/s/8/xcosmo1.jpg.pagespeed.ic.wpczYs4I_D.jpg",COSMO
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8X
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gQimt9G.png",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
@@ -205,7 +206,6 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png",GARAGE TV 
 https://stream1.sersat.com/hls/garagetv.m3u8
-
 
 
 
