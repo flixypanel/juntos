@@ -54,11 +54,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/anime_station.png",ANIME STATION
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://esportsmaxtele.com/wp-content/uploads/2024/02/Max-anime-logo-1.png",MAX ANIME
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png",MAGIC KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
+
 
 
 
@@ -168,6 +166,8 @@ https://video2.getstreamhosting.com:19360/8038/8038.m3u8
 
 OTROS
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iODADvi.png",TV INTERNACIONAL
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
@@ -183,6 +183,9 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 
 PELICULAS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xtu85tb.png",NEO TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oasis-tv-co.png",OASIS TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
@@ -205,9 +208,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj",101TV MALAGA
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CsW4Op8.png",ANDES TELEVISION
-https://stmv1.voxhdnet.com/tvsicuani/tvsicuani/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rwS082hL/atacama-tv.png",ATACAMA TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
@@ -220,8 +220,28 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",COSMO TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FDqljV.png",Bayres TV (720p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FDqljV.png",BAYRES TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nR85vvb/2021-01-03.jpg",PLAY 
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
+
+
+
+
+
+ANIME
+
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",ANIMESTATION 
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png",PANDAMAX
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg",MAX ANIME
+https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
+
 
 
 
@@ -322,13 +342,3 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 
 
 
-ANIME
-
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg",ANIMESTATION 
-https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png",PANDAMAX
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Oj3hEBh.jpg",MAX ANIME
-https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
