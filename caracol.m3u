@@ -127,8 +127,13 @@ VARIADADES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="CO | RCN Nuestra Tele" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYDfcehwZAh-BPkiG32eQgVJlqQo9NQ3nY_WCZkifpoDP_9z5WIDvYkbkBkpxw1qbA.png" group-title="COLOMBIA",CO | RCN Nuestra Tele
+#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN HD2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYDfcehwZAh-BPkiG32eQgVJlqQo9NQ3nY_WCZkifpoDP_9z5WIDvYkbkBkpxw1qbA.png" group-title="COLOMBIA",RCN
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbT9yPp0b_UbTb9xoi6npZs4/ts
+
+
+#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN HD2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYDfcehwZAh-BPkiG32eQgVJlqQo9NQ3nY_WCZkifpoDP_9z5WIDvYkbkBkpxw1qbA.png" group-title="COLOMBIA",RCN HD2
 https://live-b2.cf.dmcdn.net/sec2(YmAoF0Gre3P4GN8ZzMiiSQSo4Pz7dZU0xLV2VfVVtD6hT1XQlYpfk7JGLqraccP8sMS4xmxzsRmSPSb_kETXBHtM0ec8psxnvuoob0-tTJY)/cloud/3/x7vyv0z/s/live-720.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN EXTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
