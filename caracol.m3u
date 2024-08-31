@@ -130,8 +130,11 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="RCN HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
 https://www.dailymotion.com/cdn/live/video/x7wkq7p.m3u8?sec=EATuwKg47KDt8kNMYcjTIVH5cxWIQ7F563lwmf99-z9bDjlH3-X_hcx_jC82mYvG&dmTs=116340&dmV1st=f80ac5ad-8c5c-4c21-a030-8428d69b4bd3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/1024px-Rcn-xtra_2.png", RCN EXTRA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN EXTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png",RCN MAS
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="RCN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?uid=3T0Gr9qZ063nvVR99oMgdTpLlmgDsvru&sid=67pxqdyvv0Xq8XHQxVXBD434NaaxWNVa&pid=GgugWkHyvsfDJX1WEwnNoW1nnYPzjL6K&an=screen&at=web-app&av=v6.0.45&ref=https%3A%2F%2Fwww.caracoltv.com%2F&res=921x518&without_cookies=false&listenerid=&dnt=true
@@ -145,8 +148,7 @@ https://59a564764e2b6.streamlock.net//ctvbarranquilla//ctv//playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",STAR TV HD
 https://rtvelivestream.akamaized.net/rtvesec/int/star_main.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1gHVqvv0mgv7uTpTJ7OebOH7Ldsi_AHisgqlOzJZ7UekQ2GoKHal2O2Mu3Jc9LXTJIzjU161-A_52arYN-uS6hpfcO1U4JxfjpNN8bBMeTbP4SinrENCEOJ2mqRsF2p94KuN_3zSzPph3/s1366/rcnmas.jpg",RCN MAS
-https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/800px-Rcn-xtra_2.png",RCN XTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -483,3 +485,8 @@ RADIO
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAJxHcV.png",ANTENA 91 
 https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
+
+
+
+
+
