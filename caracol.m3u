@@ -127,8 +127,7 @@ VARIADADES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="RCN HD 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-608b7094a09205002da4f291.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=pzVoHskmhoRwb9ZRhrsa
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN EXTRA
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
@@ -427,6 +426,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u
 
 
 DEPORTES
+
+
+#EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/512px-FIFA_logo_without_slogan.svg.png", FIFA +
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-66629e11346b86608532dbeb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=FF-j4T_y1WRYXE84MKuf
 
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
