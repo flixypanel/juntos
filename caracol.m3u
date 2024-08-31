@@ -86,6 +86,8 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png",13 TELESERIE
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
+#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgrLgNDnMJrmOp-aN-8weEADC_-0KS9SHeYnxpxWRBE-jF_97DQPGh2DHP9F44X9xA.png", GLITZ
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxgX28scusxDTEH2xWbX0nL/ts
 
 #EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-name="NOVELAS PTV" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas", NOVELAS PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
@@ -430,7 +432,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u
 #EXTINF:-1 GARAJE TV" tvg-logo="http://offshore.lat:8080/images/3824795e4e1fbf0f72f1cf99ee90d861.jpg",GARAJE TV
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxXUeYcRKmUQrGgdUvyoaBW/ts
 
-
+#EXTINF:-1 xui-id="260558" tvg-id="elgourmet.mx" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ-Zvt6HQzzJNfjpS9yFOYUmUcRWGWqZrvQeb6fxLkD5TcSrp3cmgPVRxxIBUbiquk.jpg", GOURMET
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwrRadpicMd7qdPvmRh8Ow9/ts
 
 
 
