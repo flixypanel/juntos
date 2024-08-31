@@ -86,7 +86,7 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Agtfbfi.png",13 TELESERIE
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgrLgNDnMJrmOp-aN-8weEADC_-0KS9SHeYnxpxWRBE-jF_97DQPGh2DHP9F44X9xA.png", GLITZ
+#EXTINF:-1 xui-id="260560" tvg-id="glitz.co" tvg-name="GLITZ" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBgrLgNDnMJrmOp-aN-8weEADC_-0KS9SHeYnxpxWRBE-jF_97DQPGh2DHP9F44X9xA.png",GLITZ
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxgX28scusxDTEH2xWbX0nL/ts
 
 #EXTINF:-1 tvg-id="5dcde0cc2efd2700090b7ff4" tvg-name="NOVELAS PTV" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png" group-title="Novelas", NOVELAS PTV
@@ -129,11 +129,11 @@ VARIADADES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYDfcehwZAh-BPkiG32eQgVJlqQo9NQ3nY_WCZkifpoDP_9z5WIDvYkbkBkpxw1qbA.png",RCN Nuestra Tele
+#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYDfcehwZAh-BPkiG32eQgVJlqQo9NQ3nY_WCZkifpoDP_9z5WIDvYkbkBkpxw1qbA.png", RCN 
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbT9yPp0b_U¿bTb9xoi6npZs4/ts
 
 #EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN HD2"
-tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png" group-title="COLOMBIA",RCN HD2
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png", RCN HD2
 https://live-b2.cf.dmcdn.net/sec2(YmAoF0Gre3P4GN8ZzMiiSQSo4Pz7dZU0xLV2VfVVtD6hT1XQlYpfk7JGLqraccP8sMS4xmxzsRmSPSb_kETXBHtM0ec8psxnvuoob0-tTJY)/cloud/3/x7vyv0z/s/live-720.m3u8
 
 
@@ -221,7 +221,11 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="5df265697ec3510009df1ef0" tvg-name="VIDA REAL PTV" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png", VIDA REAL PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
+#EXTINF:-1 xui-id="260606" tvg-id="" tvg-name="SYFY" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmY4aJrfGvOFCdXGcDAPoAZol6ZgZnBLBM0xIAGr2SOgMTFiOtcuKKEIlG-3VHfwZqw.png",SYFY
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbXdjW1UHkPYivik_dZzDRoy8mI3L952N6TnrGSvQaXL3/ts
 
+#EXTINF:-1 xui-id="260539" tvg-id="tlc.co" tvg-name="TLC" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ_0BoTZvNPRFprAoq89XJ_aIKIrwvBo2RcPWT1UArg6H8cXaHM5U5sSgp7MIHJV64.png",TLC
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxNyyWqylZyQWP_2V1wjooX/ts
 
 
 
@@ -473,8 +477,20 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 HISTORIAS Y DOCUMENTALES
 
+#EXTINF:-1 xui-id="260535" tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZp4gN-TFdtWKjdmDbJmRwfSzaH-cE1HguCb0NrVvCX2-vbQCpth1YGBtcHJCnR8oE.png" group-title=", ANIMAL PLANET
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQz8wSMX8KS0gle-_gHA0m0g/ts
+
+#EXTINF:-1 xui-id="260553" tvg-id="history.co" tvg-name="HISTORY" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbSZCIJ6iMn6xGRtjIasV1YT4uo8rXDMWn6IpnzO0hM683RuX7y3bbP8huJqHrMQbE.png" group-title="HISTORY
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwUzUXVkPtp2QGwzcOkMeCP/ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/512px-Logo_La_8.svg.png",CANAL 8 TV
 https://movil.ejeserver.com/live/canal8tv.m3u8
+
+#EXTINF:-1 xui-id="260589" tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhpvG67M0GWIbHVqJ2vcUmhQHUfoo0yuT22u7k0T9qJ1c3LTEkiTmkQKE8R2rwLMPg.png", DISCOVERY ID
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQymDbwqBKzrRweVr-0bU7J6/ts
+
+#EXTINF:-1 xui-id="260576" tvg-id="discoveryhomeandhealth.mx" tvg-name="DISCOVERY H&H" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZQjw37xqsr6JlbD2xn8fVGfDW4TM_iAlJqSrNLm50mcj1RZHRXQ9Opz6zM6-qT_Hc.png", DISCOVERY H&H
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxQttsP_zadbqqpt3x2ZHyR/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DBvm7YS.png",AION TV
 https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
