@@ -127,11 +127,11 @@ VARIADADES
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Television
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png" group-title="COLOMBIA",RCN
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbT9yPp0b_UbTb9xoi6npZs4/ts
+#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYDfcehwZAh-BPkiG32eQgVJlqQo9NQ3nY_WCZkifpoDP_9z5WIDvYkbkBkpxw1qbA.png",RCN Nuestra Tele
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbT9yPp0b_U¿bTb9xoi6npZs4/ts
 
-
-#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png" group-title="COLOMBIA",RCN HD2
+#EXTINF:-1 xui-id="419" tvg-id="rcnnuestratele.co" tvg-name="RCN HD2"
+tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/RCN_HD2_2019.png" group-title="COLOMBIA",RCN HD2
 https://live-b2.cf.dmcdn.net/sec2(YmAoF0Gre3P4GN8ZzMiiSQSo4Pz7dZU0xLV2VfVVtD6hT1XQlYpfk7JGLqraccP8sMS4xmxzsRmSPSb_kETXBHtM0ec8psxnvuoob0-tTJY)/cloud/3/x7vyv0z/s/live-720.m3u8
 
 
@@ -253,6 +253,13 @@ https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",COSMO TV 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
+#EXTINF:-1 xui-id="260579" tvg-id="axn.mx" tvg-name="SD | AXN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbC0a4Zik8R0xNvPfVGPOOfhHRe9wlRA-mv4bAK-9KKNv1LD_40qDU6Qr1nxnLnIhg.png" group-title="CANALES SD (Poco Internet)",SD | AXN
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzmCbvKmtRsiE3L9MJk2TJO/ts
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FDqljV.png",BAYRES TV 
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -262,8 +269,9 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u
 #EXTINF:-1 tvg-id="5dcb62e63d4d8f0009f36881" tvg-name="CINE ACCION PTV" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png", CINE ACCION PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
-#EXTINF:-1 tvg-id="5e972a21ad709d00074195ba" tvg-name="ESTRELLAS DE ACCION PTV" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png", ESTRELLAS DE ACCION PTV
-https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
+#EXTINF:-1 xui-id="260561" tvg-name="FX" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmauHJKJFGjhIVQD_6AmzOKHxBlATbnWGY7uM9fsiIesDqysaDrhMRxNU09ehbNJnms.png",FX
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyBRtevvO6tLfDEtjOcN4aT/ts
+
 
 #EXTINF:-1 tvg-id="5dcdde78f080d900098550e4" tvg-name="CINE COMEDIA PTV" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png", CINE COMEDIA PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
@@ -334,6 +342,9 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 
 OTROS
 
+#EXTINF:-1 xui-id="260594" tvg-id="" tvg-name="SD | Food Network" tvg-logo=",Food Network
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwy6-8CHhfbyj6ndBCHI-cs/ts
+
 #EXTINF:-1 tvg-id="5dcde2f53449c50009b2b4dc" tvg-name="MISTERIOS PTV" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png",MISTERIOS PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
@@ -361,6 +372,9 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
 
 PLUTO TV SERIES
+
+#EXTINF:-1 xui-id="260587" tvg-id="" tvg-name="SD | Comedy Central" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbRUhoAYwXlKkVZPAJsaqYa6oOG2S6e5AKFiOFfoIyotTTCO5iUx7ZQfLYnffEQ0xk.png" group-title="CANALES SD (Poco Internet)",SD | Comedy Central
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxa-SWGGfYCQnHwvFgGutZp/ts
 
 #EXTINF:-1 tvg-id="6661d5424b10960008599fa3" tvg-name="DRAMA COREANO TEEN PTV" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG.png", DRAMA COREANO TEEN PTV
 https://stitcher.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
@@ -413,6 +427,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u
 #EXTINF:-1 tvg-id="5e3ddbd27091820009f86dd9" tvg-name="MASTERCHEF" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png", MASTERCHEF
 https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
+#EXTINF:-1 GARAJE TV" tvg-logo="http://offshore.lat:8080/images/3824795e4e1fbf0f72f1cf99ee90d861.jpg",GARAJE TV
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxXUeYcRKmUQrGgdUvyoaBW/ts
 
 
 
