@@ -40,12 +40,17 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
 INFANTIL
 
+#EXTINF:-1 xui-id="260586" tvg-id="" tvg-name="CARTOONITO" tvg-logo="http://offshore.lat:8080/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAPJXo0vMMbibz3suDJilSahtRtthcfj0O_JlJU9Ot3zQ.png", CARTOONITO
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyHf3nngkvPukTbNSkgiJ12/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",DISNEY CHANNEL 
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u88
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fXs8f6a.png",NICKELODEON 
 http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 xui-id="260532" tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ8tUu9IHO_7aWsk5L-FoH15KR7d2Wc42VQ2dxgZ9XFJR88UnY1jP05odtEYLQnVPw.png", CARTOON NETWORK
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzMk4Fve2ZwpK9vGfzokyVx/ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN TVE
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
@@ -56,22 +61,14 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png",MAGIC KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
+#EXTINF:-1 xui-id="260521" tvg-id="disneychannel.co" tvg-name="DISNEY JR" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbO0W5j9vUm4iH2Fkby4xNIGLlFtKvfrchrJRdv_tDI8Ji0xetX-zxg4qAy7e9QmQk.png" DISNEY CHANNEL
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwyL-HB_hX7kYwZNV0zARJi/ts
 
+#EXTINF:-1 xui-id="260591" tvg-id="" tvg-name="SD | Disney Jr" tvg-logo="http://offshore.lat:8080/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAVby_i2XJmKfFSiqaG_B--bxHSXX6XtzBm9yRjg9Tj5w.png", DISNEY JR
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyMjfqHDuCOcU7NMhM3VOox/ts
 
-
-
-
-
-
-INFANTIL PLUTO TV
-
-#EXTINF:-1 tvg-id="60142258a54aeb0007751c15" tvg-name="RETRO CARTOON PTV" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png", Pluto TV Retro Cartoons
-https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-
-
-
-
+#EXTINF:-1 xui-id="260544" tvg-id="nickjr.co" tvg-name="NICK JUNIOR" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYr3SaI4OqBkDmFln2_cxyKqS40iDj54wvWTVnnJ-_WS2yTTKBN2lK9P6S2LTGmiyI.png", NICK JUNIOR
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxgUUcEZutmcH9o5M5rm4YU/ts
 
 
 
@@ -476,6 +473,9 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
 HISTORIAS Y DOCUMENTALES
+
+#EXTINF:-1 xui-id="260548" tvg-id="nationalgeographic.co" tvg-name="NATGEO" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaBbBlzYAoUurBYkSKDYJHnzhieE3Lpqy9ptyzjMmM-NJ9hFv3ehJ_6oX7KGBfnEZ0.png", NATGEO
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzpqjPkcBS6W6Xn6MhGzStH/ts
 
 #EXTINF:-1 xui-id="260535" tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZp4gN-TFdtWKjdmDbJmRwfSzaH-cE1HguCb0NrVvCX2-vbQCpth1YGBtcHJCnR8oE.png" group-title=", ANIMAL PLANET
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQz8wSMX8KS0gle-_gHA0m0g/ts
