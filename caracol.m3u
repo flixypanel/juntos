@@ -73,9 +73,16 @@ http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxgUUcEZu
 #EXTINF:-1 xui-id="260603" tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png", NICKELODEON
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbXdjW1UHkPYivik_dZzDRoygt2Ry7AwGZ0uzDn2jlJUZ/ts
 
+#EXTINF:-1 xui-id="289418" tvg-id="discoverykids.mx" tvg-name="DISCOVERY KIDS" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHljpAsKVbLJ4lBdp3bo3CdS0SD2XifSM3BL-4xeLcKgJN5SuYuUO5GbyApVI72Ps.png", DISCOVERY KIDS
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px_NH2pRQVeeQcNQYdgdJF_Q/ts
+
+
 
 
 NOVELAS
+
+#EXTINF:-1 xui-id="289426" tvg-id="unicable.mx" tvg-name="UNICABLE" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmafT52Z8bzbX7vYXfwDc2L_QxUsGfceNMC3J1-YJCuSzJir-8NoZp4QGcJepLZOXPU.png", UNICABLE
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px-0iuc02Ph6oOTX1ydewOhs/ts
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1467214519860703238/YGEmnsed_400x400.jpg",D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
@@ -101,7 +108,10 @@ https://stitcher.pluto.tv/stitch/hls/channel/6474a7e7f77b6100080a89e7/master.m3u
 #EXTINF:-1 tvg-id="604bdf4e6d0abc0007ba77ad" tvg-name="SIN TETAS NO HAY ARAISO PTV" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png", SIN TETAS NO HAY ARAISO PTV
 https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
+#EXTINF:-1 xui-id="258240" tvg-id="aztecauno.mx" tvg-name="AZTECA UNO" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbuWEHM0ehcNwWfrfy1Z3y6Wme-ONgkEV0ybcAF-ZWW2waeFQpIi5H07y1eHAyzUU8.png", AZTECA UNO
 
+#EXTINF:-1 xui-id="54" tvg-id="lasestrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbHnPLYu8HBSbuD_EuFoBObAe8aYG6amd1Ws0qbAPUCXbazGnrq-WG7aO_LJKf82ok.png" group-title=", LAS ESTRELLAS
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbdzJRxKWgzBz19ySEn0pqiQ/ts
 
 
 
@@ -256,10 +266,10 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 
 #EXTINF:-1 xui-id="260559" tvg-id="goldenpremier.co" tvg-name="GOLDEN PREMIER" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYL4spsm23cAA_ud-JSIuREL4c-B8PAk83J4cBS_rikxxzfBwmpfD0fuI8AHNyoIsg.png", GOLDEN PREMIER
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyXMqTMvIop6xK_6-nvrjzH/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbTszbdE2PktTgNk7zhkzqKdSqUzXaBASwjidFW306AAW/ts
 
 #EXTINF:-1 xui-id="260583" tvg-id="goldenedge.mx" tvg-name="GOLDEN EDGE" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbgtSENd-GqaLoucN5Hk89MhWMYkMeduHSd_C8UfztVzshC-TuiYselv_PQ2MY5AjM.png", GOLDEN EDGE
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyeKjtEoD1uWNMpjy30tYo2/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbTgEXUC7vTpjJze9jcVQigg/ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eIX71c9.png",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
@@ -270,14 +280,20 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 xui-id="260556" tvg-id="hboplus.co" tvg-name="HBO PLUS" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZqehmpSr9V1Ik-FIUHOuI6pI5RRi_nuGT9ck18odD640WQM_VqH18gXEfmL95WQ7c.png", HBO PLUS
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzN_EqHGpyBINY7Mooi_kBt/ts
 
-#EXTINF:-1 xui-id="260555" tvg-id="hbosignaturehd.co" tvg-name="HBO SIGNATURE" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbSk93fHwnrY5DlmLCfipx4ODLL8fP5VDSJWqJ_uysja6b9uEDcoArdhMUeGLxlw5I.png" group-title=", HBO SIGNATURE
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQy6LoQAPDc7tDCbEkRJ7SSm/ts
+#EXTINF:-1 xui-id="1473" tvg-id="hbo2.mx" tvg-name="HBO 2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmafhH7fX9WxD0tvXaII_bHnn8IzBSeVO8D2Oe17qPfeeQ2Xg-WbNckMeBnvftBN504.png",HBO 2
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbU7oCUMVC9CNcxi2O-DA6e1f76gEx7gsznad8_C4Z_-l/ts
 
-#EXTINF:-1 xui-id="260579" tvg-id="axn.mx" tvg-name="SD | AXN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbC0a4Zik8R0xNvPfVGPOOfhHRe9wlRA-mv4bAK-9KKNv1LD_40qDU6Qr1nxnLnIhg.png" group-title="CANALES SD (Poco Internet)",SD | AXN
+#EXTINF:-1 xui-id="260555" tvg-id="hbosignaturehd.co" tvg-name="HBO SIGNATURE" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbSk93fHwnrY5DlmLCfipx4ODLL8fP5VDSJWqJ_uysja6b9uEDcoArdhMUeGLxlw5I.png" group-title=", HBO SIGNATURE
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbSnHDNyhglrd238Uu5US1ufy13h5XDko1b1mg5U0APCt/ts
+
+#EXTINF:-1 xui-id="1475" tvg-id="hbofamily.co" tvg-name="HBO FAMILY" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZr85LFZ1DNjNW0O7LvMQPJ6E3Tikj2am4MM_HmdfWoyxqkZ5Aw0J5gnrzvt_qqXsw.png",HBO FAMILY
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbarojuw1SOk2d1q1H_Dxg9z4jb4O2i1K9TDX8MZfkzKG/ts
+
+#EXTINF:-1 xui-id="260579" tvg-id="axn.mx" tvg-name="SD | AXN" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbC0a4Zik8R0xNvPfVGPOOfhHRe9wlRA-mv4bAK-9KKNv1LD_40qDU6Qr1nxnLnIhg.png", AXN
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzmCbvKmtRsiE3L9MJk2TJO/ts
 
 #EXTINF:-1 xui-id="260531" tvg-id="cinemax.mx" tvg-name="CINEMAX" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhWGNSclfB2ULb2u8RB4rq1z-zbf7TE8lIdOnDXQ3GfGXv1ZWybxFqx8epI3jRdQ6k.png", CINEMAX
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyDkdlWF1RR33fzMSdnzMOH/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbWVMf9nLBCTZoqKR_kXkLNw/ts
 
 #EXTINF:-1 xui-id="260543" tvg-id="paramountchannel.co" tvg-name="PANAMOUNT" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaHl1hFg2o1KU_L_8BIC3luPVx9mku-Pcu06KjSHZq_GNCc6Cs09ucMiYSbMqh2XKY.jpg", PANAMOUNT
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxNLqqtxWjfq4-2CgU15xVc/ts
@@ -285,8 +301,14 @@ http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxNLqqtxW
 #EXTINF:-1 xui-id="260542" tvg-id="sonyentertainmenttv.mx" tvg-name="SONY CHANNEL" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbJ47Gj7TrhcATmVNUfvAk2Bb_TYMnIctsAM5TYQGlRVtnKFuT5y9zSeOAHv0O0N04.png", SONY CHANNEL
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzt6m-GCzzpn6UMqWgomeQ6/ts
 
+#EXTINF:-1 xui-id="50" tvg-id="fox.co" tvg-name="STAR CHANNEL" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZvOayd0wyWa5ZwLIdjLMiEFoDRvnuq1INPbbKE0QQUzgpPS3vkKKRQavlA1k1631o.png", STAR CHANNEL
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbVPFhFmcu0WsSqwqczFloz0/ts
+
 #EXTINF:-1 xui-id="260605" tvg-id="" tvg-name="SPACE" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo-500x281.png",SPACE
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbXdjW1UHkPYivik_dZzDRowxvHqZtDAotaHA0EyvvIXp/ts
+
+#EXTINF:-1 xui-id="37" tvg-id="amchd.mx" tvg-name="AMC" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmabfW4jbEl-aJ1Kzb5iSlWJDwiitabKheogMb1inZw85zahh4KEiuXDAVJSArxX5Vs.png", AMC
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbQCJRlqlsIlh_4f1CxkK3VM/ts
 
 #EXTINF:-1 xui-id="260612" tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.pngfind.com/pngs/m/641-6418443_universal-pictures-logo-png-studio-universal-transparent-png.png", STUDIO UNIVERSAL
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbXdjW1UHkPYivik_dZzDRowi0uGSxqmKVGXQ3q00YpJu/ts
@@ -301,16 +323,16 @@ https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
 #EXTINF:-1 xui-id="260561" tvg-name="FX" tvg-logo="https://seeklogo.com/images/F/fx-logo-D0E42903C8-seeklogo.com.png",FX
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyBRtevvO6tLfDEtjOcN4aT/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px_RHswdNL10aQs9FwtmDopc/ts
 
 #EXTINF:-1 xui-id="260525" tvg-id="tnt.co" tvg-name="TNT" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb9pKOXNV0Na5wLxvfMyGrXSyQrwmtLa0vtQ3vfrX41VozNv-QvLGoEJSBigeX8EZs.png", TNT
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQw2ELvSCo5GNw3W7oPoEa1a/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbR8gLtfC_D1RusIPp-1FFts/ts
 
 #EXTINF:-1 xui-id="260609" tvg-id="" tvg-name="SD | Universal" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbrOrKgtF-NuiI_7zow88a78W3mlL27m157YHq6opWZCX-I1OGAtoPEbjI6I1nYy1k.png", UNIVERSAÑ
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbXdjW1UHkPYivik_dZzDRozDSJuUhfTEzCk9zOEJDa02/ts
 
 #EXTINF:-1 xui-id="260522" tvg-id="warnerchannel.mx" tvg-name="WARNER" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosman03vZOJNz9tOOEAREib0HPyfTmiZ2k6njDoF5-PoS_qRPPOXmmtDw6Wi9wfxDwDY.png", WARNER
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxy5Ef7AJUTJtWMIntvHi7Y/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px9PJjJjB5XOsTJv8RsoZiAU/ts
 
 #EXTINF:-1 tvg-id="5dd7ea2aeab5230009986735" tvg-name="CINE ROMANCE PTV" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png", CINE ROMANCE PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
@@ -337,7 +359,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
 
-
+#EXTINF:-1 xui-id="289425" tvg-id="aandemundo.mx" tvg-name="A&E" tvg-logo="http://offshore.lat:8080/images/20519da9b15c2aeac2674f74922083e8.png", A&E
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px_W62hINLCk5Gk1qqehVogD/ts
 
 
 
@@ -407,7 +430,7 @@ https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 PLUTO TV SERIES
 
 #EXTINF:-1 xui-id="260538" tvg-id="tntseries.mx" tvg-name="TNT SERIES" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaOyu3szNeNg0zc1keh6LcX7nYE0RMdAzulJqABhkhcO0sc9PmWNHlUd4RptVRTG3Y.png", TNT SERIES
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyWaqUU0to_TydlCnN1TyH9/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbbjLcWO1HJ6cYBrZWGZ7Hsqz2VDHz97qrFRZxmxw6JAe/ts
 
 #EXTINF:-1 xui-id="260587" tvg-id="" tvg-name="SD | Comedy Central" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbRUhoAYwXlKkVZPAJsaqYa6oOG2S6e5AKFiOFfoIyotTTCO5iUx7ZQfLYnffEQ0xk.png" group-title="CANALES SD (Poco Internet)",SD | Comedy Central
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQxa-SWGGfYCQnHwvFgGutZp/ts
@@ -433,6 +456,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u
 
 TIPO MTV
 
+#EXTINF:-1 xui-id="289421" tvg-id="eentertainment.mx" tvg-name="E!" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmacPUVkfXme00-ENAhuKBhqNpl9vqVN56qyPXOQFyWdZ4fvktnLTQlEBIB45gbfJ38.png",E!
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px-SJGbayNFNwtypE4GI404R/ts
+
+#EXTINF:-1 xui-id="289414" tvg-id="comedycentral.mx" tvg-name="COMEDI CENTRAL" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaDSAAADQ3-HvQXJPJqeyBuJs0AMGaTvm5BvMvvl7ccQ1oLitrSf8TLyfnCyigE5_I.png", COMEDI CENTRAL
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px8itBkwXd-d8EiONTlhjSug/ts
+
 #EXTINF:-1 tvg-id="5fab088b3279760007d4e4fd" tvg-name="MTV SPRITE PTV" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png", MTV SPRITE PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
@@ -444,6 +473,11 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png"CANAL 21
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+
+#EXTINF:-1 xui-id="260550" tvg-id="mtv.co" tvg-name="MTV" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZwXziz7fmx7YpRj1P5hACSIZ7eb8kD2mOeoXM4Ui21Ph-3qD5LTxCO18om7oWvAmk.png", MTV
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbSQ6n6oKi8clOCT7DA89c00/ts
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IIUzjqsChpzsjIafaLfwhZltNxslCol_0xoGEgNvquhPtyeQW03tDUN7yiTiiaININ2UUjmzXO4=s512-c-k-c0x00ffffff-no-rj",101TV MALAGA
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
@@ -486,6 +520,11 @@ http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwrRadpic
 
 DEPORTES
 
+#EXTINF:-1 xui-id="260517" tvg-id="espn3.mx" tvg-name="SPNM 3" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaMJ866WoCv_x0j3ayIO3oGZ6U-u9b3LKKI-f4x1486GZW2J8NUAjunC4-anF83z3g.png", ESPN 3
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQypiX_K-JFP3q2n_ohdCQyP/ts
+
+#EXTINF:-1 xui-id="260580" tvg-id="espn2.mx" tvg-name="ESPN 2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb-gOiaMlSBd1wBcyVetL5cW-g4s0TPa7UeFD4Rc8CSP5v3X2nxTJ_QnLrhhfOaG6Y.png", ESPN 2
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwwxdPJ5vbw9Ya2qG0Fk3rZ/ts
 
 #EXTINF:-1 tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-name="FIFA +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/512px-FIFA_logo_without_slogan.svg.png", FIFA +
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-66629e11346b86608532dbeb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=FF-j4T_y1WRYXE84MKuf
@@ -493,7 +532,14 @@ https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-66629e11346b
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN TV
 https://jireh-2-hls-video-us-isp.dps.live/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 
+#EXTINF:-1 xui-id="289412" tvg-id="foxsports.mx" tvg-name="FOX SPORT" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBj67_F6SPUaRGFsZm-Y4QsXs4rM6yAI9CcdQhSIGNxw-D4VzHCpnVmG1d-eeq7dT8g.png", FOX SPORT
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px8M3GCrZ2OZna4ullolyJ8U/ts
 
+#EXTINF:-1 xui-id="260581" tvg-id="foxsports2.mx" tvg-name="FOX SPORTS 2" tvg-logo="http://offshore.lat:8080/images/a08404f4d9fb0e3d9b54e314ac30dd70.png", FOX SPORTS 2
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbaDThDqBpLgr5ePpY9BjxU0/ts
+
+#EXTINF:-1 xui-id="265941" tvg-id="" tvg-name="AMC" tvg-logo="http://offshore.lat:8080/images/049722045b4caf87eebfca4cdaf3e502.png", AMC
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbWgGckAOWTB3sUTrgvXu3hPY_CEW6loSnO_Kb_kl6ar2/ts
 
 
 
@@ -507,8 +553,14 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 HISTORIAS Y DOCUMENTALES
 
+#EXTINF:-1 xui-id="42" tvg-id="discoveryhdtheater.mx" tvg-name="DISCOVERY HEATER" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmayq6gMbUhOB4wBO_DhNxC5f07CRKyp_km7n0w1lzqydaXqTn1pf5QWwBMDtANWK7s.png"DISCOVERY HEATER
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbfewR7kojGnWe5u3myppaIQ/ts
+
+#EXTINF:-1 xui-id="401651" tvg-id="" tvg-name="H2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbuvs7FsGZRJ70y7Ctac0UqH4Q5yAn_t5pLwDbzgwzhCGSqb0SYgGXYNeTrE3frYqo.PNG", H2
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbU_AyUhGkViC1cMo2mQsVnfM-x7JkBq4kN5c880mkXVE/ts
+
 #EXTINF:-1 xui-id="260548" tvg-id="nationalgeographic.co" tvg-name="NATGEO" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmaBbBlzYAoUurBYkSKDYJHnzhieE3Lpqy9ptyzjMmM-NJ9hFv3ehJ_6oX7KGBfnEZ0.png", NATGEO
-http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzpqjPkcBS6W6Xn6MhGzStH/ts
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbUI0NSW1A7Z-NesgrFE0Px9iEb2UER8yAPm3r8ede6wr/ts
 
 #EXTINF:-1 xui-id="260535" tvg-id="animalplanet.mx" tvg-name="ANIMAL PLANET" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZp4gN-TFdtWKjdmDbJmRwfSzaH-cE1HguCb0NrVvCX2-vbQCpth1YGBtcHJCnR8oE.png" group-title=", ANIMAL PLANET
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQz8wSMX8KS0gle-_gHA0m0g/ts
@@ -518,6 +570,9 @@ http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwUzUXVkP
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/512px-Logo_La_8.svg.png",CANAL 8 TV
 https://movil.ejeserver.com/live/canal8tv.m3u8
+
+#EXTINF:-1 xui-id="1512" tvg-id="history2.co" tvg-name="HISTORI 2" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmYuVbg1n9VfSrKD_2n0la6h79NZwcPFA2p6biNGWxb4dUpybC2djoZo1AC3ya54vxQ.png", HISTORY 2
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbeANVTLObXm659HYB64QHvXM5d3XkTNs8trh2NbCs9Rx/ts
 
 #EXTINF:-1 xui-id="260589" tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSFbiaIDatwRiEYgBK07TGBhpvG67M0GWIbHVqJ2vcUmhQHUfoo0yuT22u7k0T9qJ1c3LTEkiTmkQKE8R2rwLMPg.png", DISCOVERY ID
 http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQymDbwqBKzrRweVr-0bU7J6/ts
@@ -530,9 +585,6 @@ https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8
 
 #EXTINF:-1 tvg-id="5dd834c66fe2ca0009303b8d" tvg-name="ANIMALES PTV" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png", ANIMALES PTV
 https://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
-
-#EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-name="AVENTURA PTV" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png", AVENTURA PTV
-https://stitcher.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5c994790-62bc-11ef-843f-be5cd951c95a
 
 
 
